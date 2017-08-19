@@ -209,12 +209,7 @@
                     }
                 },
                 "env": [
-                ],
-                "resources": {
-		      "limits": {
-			  "memory": "${MEMORY_LIMIT}"
-		      }
-                }
+                ]
               }
             ]
           }
